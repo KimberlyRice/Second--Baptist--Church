@@ -1,0 +1,111 @@
+
+body{
+	width: 100%;
+	padding: 15px;
+	border: 10px none;
+	background-color: #AA6C39;
+	padding:70px 70px
+}
+
+
+
+/*img {
+		border-style: solid;
+		border-color: black;
+		float:center;
+		width: 50%;
+}*/
+
+/********
+Header
+***********/
+#header {
+	/*float:left;*/
+	margin: 20px 0;
+	width: 70%;
+}
+
+h1 {
+
+	/*float:left;*/
+	margin: 30px;
+	/*text-indent: -20000;*/
+	color: #003333;
+	font-style: bold;
+	font-size: 50px;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+	
+}
+p { 
+	color: #003333;
+	border: 5px solid black;
+	padding: 20px 20px 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+/*****
+Navigation
+**********************/
+#nav li {
+	display: inline;
+	text-align: center;
+	
+	/*float: right; */
+}
+
+nav ul a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a {
+	font-size: 1.4em;
+	font-weight: bold;
+	padding-right: 50px;
+	padding-bottom:20px;
+	color: #eac657;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+/********
+Slick Nav
+********/
+.innerdivs {
+	text-align: center;
+}
+
+.innerdivs img {
+	display: inline;
+
+}
+
+/******Video
+*******************/
+.container container-video {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	left: ;
+	bottom:0;
+	right:0;
+	
+
+}
+
+#footer {
+margin: 50px;
+}
+
+p {
+	text-align: center;
+	color:#003333;
+}
+
+li span {
+	color:#003333; /*text color*/
+	font-weight: bold;
+}
